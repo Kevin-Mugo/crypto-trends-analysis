@@ -17,7 +17,7 @@ df["updated_at"] = datetime.now()  # Add timestamp for tracking updates
 
 # Step 3: Connect to PostgreSQL
 db_user = "postgres"
-db_password = "P%40s"  # Replace with your actual password
+db_password = "P%40s"  
 db_host = "localhost"
 db_name = "binance_db"
 
